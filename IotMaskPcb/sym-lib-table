@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name IotMaskPcb-cache)(type Legacy)(uri ${KIPRJMOD}/IotMaskPcb-cache.lib)(options "")(descr ""))
+)
